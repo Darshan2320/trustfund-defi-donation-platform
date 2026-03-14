@@ -1,19 +1,25 @@
- # TrustFund: Blockchain-Based Donation Transparency Platform
+# TrustFund: Blockchain-Based Donation Transparency Platform
 
-This project is a decentralized donation platform built using Solidity, Ethereum Sepolia testnet, MetaMask, and Python Web3.py.
+This project is a decentralized donation platform built using Ethereum smart contracts.
 
-## Project Goal
-To build a transparent blockchain-based donation vault where users can donate ETH and all transactions are recorded on-chain.
+## Objective
+To build a transparent blockchain-based donation system where all contributions are recorded on-chain.
 
-## Tools Used
+## Technologies Used
 - Solidity
 - Remix IDE
-- MetaMask
 - Ethereum Sepolia Testnet
+- MetaMask
 - Python Web3.py
 - GitHub
 
 ## Repository Structure
-- `contracts/` smart contracts
-- `scripts/` Python scripts
-- `docs/` screenshots and documentation
+
+contracts/
+Contains Solidity smart contracts
+
+scripts/
+Contains Python scripts for blockchain analytics
+
+docs/
+Contains project documentation and screenshots
